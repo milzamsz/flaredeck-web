@@ -1,19 +1,51 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "notes": "See the [download page](https://www.flaredeck.dev/download) for installers.\n\nSigned updater bundles for each platform are attached below.",
-  "pub_date": "2026-05-18T02:18:23.558Z",
+  "pub_date": "2026-07-15T18:48:48.555Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQjhWTFdvM2JTL3hjTjJPRkxEV3Brb3ZoaERzNkFTTFdtTVRsTHhvY3NpRTdHVzYwOWQ2TUxZK1R1bTJ6OWRjMWNEeGo0emx0S2R4aFJnUzFqcmE4TmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDcwNzAwCWZpbGU6RmxhcmVEZWNrXzAuMi4yX3g2NF9lbi1VUy5tc2kKOU9MTENFTTBlOHpFbVppa3V1akU0M21LUlFObHZBMzRoV3BVZ1VwL253dHFCK1JsZjlaZU91a3UvYWE1QktWbjhpaGk1WXEzaXRYZ3RjUXBFMlJCQ3c9PQo=",
-      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.2/FlareDeck_0.2.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQnlPZmNMUysyREIrMStGRWlSZ1gyUGVEenZTNVRpYjV6QVpQM3VQZ1kwZ2gvSkc2R3pTbTkvbVZGaFFRdnNMYTNVZkFrWFhpbnFjWkNCUWNFbzhEbUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjYxCWZpbGU6RmxhcmVEZWNrXzAuMi4zX3g2NF9lbi1VUy5tc2kKMk51cFNpaUFFMXJuSzdVNExWc1orMzNuWDJNV1BXVG1tem5aT2tQbElMNmJwNjMyV2FOWTQ1djhWYnhlRGhKTnRJTnNoajNTNi9KRG4vRFdSUkc1RGc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQjhWTFdvM2JTL3hjTjJPRkxEV3Brb3ZoaERzNkFTTFdtTVRsTHhvY3NpRTdHVzYwOWQ2TUxZK1R1bTJ6OWRjMWNEeGo0emx0S2R4aFJnUzFqcmE4TmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDcwNzAwCWZpbGU6RmxhcmVEZWNrXzAuMi4yX3g2NF9lbi1VUy5tc2kKOU9MTENFTTBlOHpFbVppa3V1akU0M21LUlFObHZBMzRoV3BVZ1VwL253dHFCK1JsZjlaZU91a3UvYWE1QktWbjhpaGk1WXEzaXRYZ3RjUXBFMlJCQ3c9PQo=",
-      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.2/FlareDeck_0.2.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQnlPZmNMUysyREIrMStGRWlSZ1gyUGVEenZTNVRpYjV6QVpQM3VQZ1kwZ2gvSkc2R3pTbTkvbVZGaFFRdnNMYTNVZkFrWFhpbnFjWkNCUWNFbzhEbUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjYxCWZpbGU6RmxhcmVEZWNrXzAuMi4zX3g2NF9lbi1VUy5tc2kKMk51cFNpaUFFMXJuSzdVNExWc1orMzNuWDJNV1BXVG1tem5aT2tQbElMNmJwNjMyV2FOWTQ1djhWYnhlRGhKTnRJTnNoajNTNi9KRG4vRFdSUkc1RGc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQjJBekRMclltaHVoS0F4NVNEdlIvMkJseVJHaTN5ZVBBODcranhnNWkwN3IrUGd2WnNsa0tqYldEYlgvYmpHOFByOGpKZ01GWU9QeTFQcWdhYlNGTmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDcwNzAwCWZpbGU6RmxhcmVEZWNrXzAuMi4yX3g2NC1zZXR1cC5leGUKS1MvaHNoQk1peUdCUWRQMHVabzVuTndZYW9vUlFCNlJPNUQwTHZGODhDOVgraDZCZDU4aEdJV2FnUGsxYkJaZFhpSWt0bXM2OFVYMG1EeFVBckUvQ3c9PQo=",
-      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.2/FlareDeck_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQitkNWJ4S0Q5QzhvQ1R2OWlGaVpyVGtNWWFUazRWcWNDTnIvUjkvbCt1VEFNNFpWTWhvb3lRQ0xvWDdhTmRSM01MVTk2MitodHhaemtXK3pBdnBoRFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjYxCWZpbGU6RmxhcmVEZWNrXzAuMi4zX3g2NC1zZXR1cC5leGUKRDlrVzNzcUxHYnc0Z3I5SnNEaFF3VEx1bm1WTTZjZjhvazNtelZaS2FsZUtXNjdTaEkwRGtoaUpVenNIbEE0WWxuZ2lpbzhHS2cvek9pYk5YOUxyQWc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQjF3aXJzdkcxR09tdUg5V1pyV1ZEaWtyT3Q5UkJxejVOaHFSNENjNEhrNHA0Mm5RTmRLblJGMXJ2TTg4eHBjSXBOZGtmVDZPdHB4S09TTVRENHUreHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjc2CWZpbGU6RmxhcmVEZWNrXzAuMi4zX2FtZDY0LkFwcEltYWdlCldDWEpSTVJvUDZPRVRjS1NpMkczSE4rMXpZeVhMR2lCMGlhbmcwcGRQMWNqdTh2cVBNMjVxaWJ0VGJoK2xXQUdHTFRTZjhYTnY4ek9Cb3R1R2dvSUJ3PT0K",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQjF3aXJzdkcxR09tdUg5V1pyV1ZEaWtyT3Q5UkJxejVOaHFSNENjNEhrNHA0Mm5RTmRLblJGMXJ2TTg4eHBjSXBOZGtmVDZPdHB4S09TTVRENHUreHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjc2CWZpbGU6RmxhcmVEZWNrXzAuMi4zX2FtZDY0LkFwcEltYWdlCldDWEpSTVJvUDZPRVRjS1NpMkczSE4rMXpZeVhMR2lCMGlhbmcwcGRQMWNqdTh2cVBNMjVxaWJ0VGJoK2xXQUdHTFRTZjhYTnY4ek9Cb3R1R2dvSUJ3PT0K",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQi91S1JsSjJ6UUZ5YjNvZFd4YzZONng0N0VYWEZSRWs1MVNnK0dDUlZzT2dJUXlHSWpzbU94bTlVeFkzWlR4QnVxbjExbHNGOVJtRGlqTUtrb3dCbUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjc2CWZpbGU6RmxhcmVEZWNrXzAuMi4zX2FtZDY0LmRlYgphc0lBZ3kwL0k1cjY0dHdoc3hCQU56K1p6cEtQazR5NGIzSHBLNUxMWHE0eWtQN0lzSlJLUlZSTGYzQlVZOVBTQjFWaGxwRkdPY0VCbnZKbnRUTXZCUT09Cg==",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_0.2.3_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQngvbVdaQlN1ZVNucHhkaEw0OHlQUGU2VVJ4eUNRUkZWOHIvR00vcVZzS2UwUVN0a1JIQjFXMGI4bHd5bWtYRDhXd1VzK0lEVTk5YXlkdklFVEZhaXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMjc2CWZpbGU6RmxhcmVEZWNrLTAuMi4zLTEueDg2XzY0LnJwbQpZZDhTNzF2bE9qeXJZRW1rRFBrU003TkZ1cnJnakVnays1ZzhiYWU4YVVEVVZsemxIU0tNdFlZYlYvOGRMa2Z5TG1vYjlHRVlxSXBKeGIvSURtQUJCQT09Cg==",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck-0.2.3-1.x86_64.rpm"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQitTekFRY0VGMUp5eGpNRzgxSTdZbHJwK1N4TTVRUk5RWE11eXpUQ3hwdVNJdFprT2xOWEUvZ0NBdUJTcmhzdnRwOHc4SmZ0S0ZuSE5PNk9jUHBPdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMzI1CWZpbGU6RmxhcmVEZWNrLmFwcC50YXIuZ3oKaitOV3BFTTB2QzB5UXJxS3EzdFZ0T3pRYnBUUUxQc1poU0w2WG9EYkt2YS9YVDNCUFZ1UnpkUHN0TFBaRVV2QkhWWDR2WXZ4dEdBaFBpcFFNbEI3RHc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQitTekFRY0VGMUp5eGpNRzgxSTdZbHJwK1N4TTVRUk5RWE11eXpUQ3hwdVNJdFprT2xOWEUvZ0NBdUJTcmhzdnRwOHc4SmZ0S0ZuSE5PNk9jUHBPdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMzI1CWZpbGU6RmxhcmVEZWNrLmFwcC50YXIuZ3oKaitOV3BFTTB2QzB5UXJxS3EzdFZ0T3pRYnBUUUxQc1poU0w2WG9EYkt2YS9YVDNCUFZ1UnpkUHN0TFBaRVV2QkhWWDR2WXZ4dEdBaFBpcFFNbEI3RHc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQitTekFRY0VGMUp5eGpNRzgxSTdZbHJwK1N4TTVRUk5RWE11eXpUQ3hwdVNJdFprT2xOWEUvZ0NBdUJTcmhzdnRwOHc4SmZ0S0ZuSE5PNk9jUHBPdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMzI1CWZpbGU6RmxhcmVEZWNrLmFwcC50YXIuZ3oKaitOV3BFTTB2QzB5UXJxS3EzdFZ0T3pRYnBUUUxQc1poU0w2WG9EYkt2YS9YVDNCUFZ1UnpkUHN0TFBaRVV2QkhWWDR2WXZ4dEdBaFBpcFFNbEI3RHc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnAxY0NNZFBZQitTekFRY0VGMUp5eGpNRzgxSTdZbHJwK1N4TTVRUk5RWE11eXpUQ3hwdVNJdFprT2xOWEUvZ0NBdUJTcmhzdnRwOHc4SmZ0S0ZuSE5PNk9jUHBPdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQxMzI1CWZpbGU6RmxhcmVEZWNrLmFwcC50YXIuZ3oKaitOV3BFTTB2QzB5UXJxS3EzdFZ0T3pRYnBUUUxQc1poU0w2WG9EYkt2YS9YVDNCUFZ1UnpkUHN0TFBaRVV2QkhWWDR2WXZ4dEdBaFBpcFFNbEI3RHc9PQo=",
+      "url": "https://github.com/milzamsz/flaredeck/releases/download/v0.2.3/FlareDeck_universal.app.tar.gz"
     }
   }
 }
